@@ -71,7 +71,7 @@ p a {
   text-decoration: none;
 }
 
-ol {color: #566473; font-weight: bold}
+ol {color: #566473; font-weight: bold; margin-left: 15px;}
 ul {list-style: none;color: #555555;}
 
 ol a {
